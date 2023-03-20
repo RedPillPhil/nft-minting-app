@@ -10,7 +10,7 @@
   "SYMBOL": "RINGO",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 20000000000000000000000,
-  "DISPLAY_COST": 22000,
+  "DISPLAY_COST": 20000,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
